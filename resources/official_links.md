@@ -1,4 +1,4 @@
-\# Official Links
+# Official Links
 
 
 
@@ -10,11 +10,11 @@ Use these links when you want original hardware information, firmware informatio
 
 
 
-\---
+---
 
 
 
-\## Official NPG Lite documentation
+## Official NPG Lite documentation
 
 
 
@@ -30,11 +30,11 @@ Start here when you want to understand the device, hardware blocks, connectivity
 
 
 
-\---
+---
 
 
 
-\## NPG Lite Beast Pack
+## NPG Lite Beast Pack
 
 
 
@@ -50,11 +50,11 @@ The Beast Pack is useful for learners who want the fuller NPG Lite kit and futur
 
 
 
-\---
+---
 
 
 
-\## Upside Down Labs store
+## Upside Down Labs store
 
 
 
@@ -78,11 +78,11 @@ Prices and availability can change. Always check the official store page before 
 
 
 
-\---
+---
 
 
 
-\## NPG Lite firmware
+## NPG Lite firmware
 
 
 
@@ -98,11 +98,11 @@ Use the official firmware repository when you want the official Upside Down Labs
 
 
 
-\---
+---
 
 
 
-\## OpenPhysiologyLab
+## OpenPhysiologyLab
 
 
 
@@ -122,11 +122,11 @@ OpenPhysiologyLab provides one possible software workflow for recording and anal
 
 
 
-\---
+---
 
 
 
-\## Important note
+## Important note
 
 
 
