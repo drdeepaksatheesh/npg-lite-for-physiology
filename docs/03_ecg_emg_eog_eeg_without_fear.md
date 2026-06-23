@@ -19,22 +19,14 @@ They are all biosignals.
 They all need a recording chain.
 
 Body
-
-\-> electrodes
-
-\-> amplifier
-
-\-> ADC
-
-\-> firmware
-
-\-> computer
-
-\-> software
-
-\-> graph
-
-\-> interpretation
+-> electrodes
+-> amplifier
+-> ADC
+-> firmware
+-> computer
+-> software
+-> graph
+-> interpretation
 
 The body source changes.
 
@@ -54,13 +46,10 @@ ECG records electrical activity related to the heart.
 
 It is usually the easiest beginner signal because:
 
-- the signal is relatively strong
-
-- the pattern is familiar
-
-- the rhythm is easy to notice
-
-- students already learn ECG in physiology
+* the signal is relatively strong
+* the pattern is familiar
+* the rhythm is easy to notice
+* students already learn ECG in physiology
 
 For this repository, ECG is useful as a first learning signal.
 
@@ -76,21 +65,16 @@ EMG records electrical activity from muscle.
 
 A useful beginner experiment is to record from a superficial muscle and compare:
 
-- relaxed state
-
-- mild contraction
-
-- stronger contraction
+* relaxed state
+* mild contraction
+* stronger contraction
 
 The learner can ask:
 
-- Does the signal increase during contraction?
-
-- Is there movement artifact?
-
-- Is the electrode placement stable?
-
-- Is the signal noisy because of cable movement?
+* Does the signal increase during contraction?
+* Is there movement artifact?
+* Is the electrode placement stable?
+* Is the signal noisy because of cable movement?
 
 EMG teaches that physiology changes with action.
 
@@ -108,15 +92,11 @@ When the eyes move, the voltage pattern around the eyes changes.
 
 A beginner experiment may compare:
 
-- looking left
-
-- looking right
-
-- looking up
-
-- looking down
-
-- blinking
+* looking left
+* looking right
+* looking up
+* looking down
+* blinking
 
 EOG is useful because learners can connect a visible action with a changing signal.
 
@@ -130,15 +110,11 @@ EEG records electrical activity related to the brain.
 
 EEG is more difficult for beginners because:
 
-- the signal is very small
-
-- noise is common
-
-- electrode contact matters a lot
-
-- eye blinks and muscle activity can contaminate the recording
-
-- interpretation is not simple
+* the signal is very small
+* noise is common
+* electrode contact matters a lot
+* eye blinks and muscle activity can contaminate the recording
+* interpretation is not simple
 
 For beginners, EEG should be approached slowly.
 
@@ -180,15 +156,11 @@ Begin with one safe, simple signal.
 
 Ask:
 
-- Is the device detected?
-
-- Is the board sending data?
-
-- Is there a visible change?
-
-- Is the electrode contact good?
-
-- Can I explain what I am seeing?
+* Is the device detected?
+* Is the board sending data?
+* Is there a visible change?
+* Is the electrode contact good?
+* Can I explain what I am seeing?
 
 This is enough for a first learning session.
 
@@ -214,17 +186,12 @@ The learner must think through the chain.
 
 A good beginner order is:
 
-1\. Find the COM port.
-
-2\. Check Serial Monitor.
-
-3\. Try a simple ECG recording.
-
-4\. Try a simple EMG recording.
-
-5\. Try a simple EOG recording.
-
-6\. Approach EEG later, with more care.
+1. Find the COM port.
+2. Check Serial Monitor.
+3. Try a simple ECG recording.
+4. Try a simple EMG recording.
+5. Try a simple EOG recording.
+6. Approach EEG later, with more care.
 
 This order builds confidence step by step.
 
@@ -241,4 +208,3 @@ Once you understand the chain, every new signal becomes less frightening.
 You may not know everything yet.
 
 But you know where to begin.
-
